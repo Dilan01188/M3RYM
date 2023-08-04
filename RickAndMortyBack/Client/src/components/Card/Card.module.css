@@ -1,0 +1,91 @@
+.card{
+    width: 16%;
+    height: 30%;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: .5vmin solid #05060f;
+    box-shadow: .4rem .4rem #05060f;
+    overflow: auto;
+    color: black;
+    margin-top: 20px;
+    background-color: #2E294E;
+}
+
+.container{
+    width: 16%;
+    height: 30%;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: .5vmin solid #05060f;
+    box-shadow: .4rem .4rem #05060f;
+    overflow: auto;
+    color: black;
+    margin-top: 20px;
+    background-color: #2E294E;
+  
+}
+
+
+.cardImg{
+    
+    width: 80%;
+  
+    border-radius: 30%;
+    border-end-end-radius: 10px;
+   
+
+}
+
+
+.buttonContainer1 {
+
+  background-color: rgb(233, 67, 67);
+  color: white;
+  margin-left: 70%;
+
+  
+}
+
+
+
+.buttonContainer2 {
+
+    background-color: transparent;
+    color: white;
+  }
+
+
+
+.dataContainer{
+    text-align:  center;
+    
+
+}
+
+
+
+.Namee{
+    margin: 10px;
+   color: #36f45c;
+   font-weight: bold;
+   margin-bottom: 20px;
+   margin-top: 50px;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+   text-decoration: none;
+
+}
+
+
+.dataContainer h4{
+  
+    color:#D7263D;
+
+ }
+
+
+
+  a {
+    text-decoration: none;
+  }
